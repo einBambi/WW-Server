@@ -136,7 +136,7 @@
 }
 
 - (void)listenerDidDisconnect {
-	[self receive:@"Listener disconnected, reconnecting…"];
+	[self receive:@"Listener disconnected, attempting reconnect…"];
 }
 
 @end
