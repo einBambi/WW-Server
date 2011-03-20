@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'WWServer' target in the 'WWServer' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
