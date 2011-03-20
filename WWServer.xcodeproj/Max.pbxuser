@@ -1,0 +1,386 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 772}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* WWServerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 768}}";
+			sepNavSelRange = "{409, 70}";
+			sepNavVisRange = "{0, 519}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* WWServerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2105, 975}}";
+			sepNavSelRange = "{888, 0}";
+			sepNavVisRange = "{0, 1676}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 50BCC5921322A49D000B8D84 /* WWServer */;
+		activeTarget = 8D1107260486CEB800E47090 /* WWServer */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* WWServer */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 50BCC59C1322A4A4000B8D84 /* Code sense */;
+		executables = (
+			50BCC5921322A49D000B8D84 /* WWServer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1153,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321394562;
+			PBXWorkspaceStateSaveDate = 321394562;
+		};
+		perUserProjectItems = {
+			5068FE6A13281790004D7320 /* PlistBookmark */ = 5068FE6A13281790004D7320 /* PlistBookmark */;
+			5099F24C1327EDE700E1CECA = 5099F24C1327EDE700E1CECA /* PBXTextBookmark */;
+			5099F24D1327EDE700E1CECA = 5099F24D1327EDE700E1CECA /* PBXTextBookmark */;
+			5099F24E1327EDE700E1CECA = 5099F24E1327EDE700E1CECA /* PBXTextBookmark */;
+			5099F2501327EDE700E1CECA = 5099F2501327EDE700E1CECA /* PBXTextBookmark */;
+			5099F2511327EDE700E1CECA = 5099F2511327EDE700E1CECA /* PBXTextBookmark */;
+			5099F2521327EDE700E1CECA = 5099F2521327EDE700E1CECA /* PBXTextBookmark */;
+			5099F2531327EDE700E1CECA = 5099F2531327EDE700E1CECA /* PBXTextBookmark */;
+			5099F2541327EDE700E1CECA = 5099F2541327EDE700E1CECA /* PBXTextBookmark */;
+			5099F2551327EDE700E1CECA = 5099F2551327EDE700E1CECA /* PlistBookmark */;
+			5099F2561327EDE700E1CECA = 5099F2561327EDE700E1CECA /* PlistBookmark */;
+			50BCC5C51322CD11000B8D84 = 50BCC5C51322CD11000B8D84 /* PBXTextBookmark */;
+			50BCC5C81322CD11000B8D84 = 50BCC5C81322CD11000B8D84 /* PBXTextBookmark */;
+			50BCC5C91322CD11000B8D84 = 50BCC5C91322CD11000B8D84 /* PBXTextBookmark */;
+			50BCC6021322DF1D000B8D84 = 50BCC6021322DF1D000B8D84 /* PBXTextBookmark */;
+			50BCC6031322DF1D000B8D84 = 50BCC6031322DF1D000B8D84 /* PBXTextBookmark */;
+			50BCC6071322DF1D000B8D84 = 50BCC6071322DF1D000B8D84 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 50BCC59B1322A4A4000B8D84 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5068FE6A13281790004D7320 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WWServer-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Max/Xcode/WWServer/WWServer-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	5099F24C1327EDE700E1CECA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BCC62A1322E5CF000B8D84 /* WWPlayer.h */;
+		name = "WWPlayer.h: 31";
+		rLen = 18;
+		rLoc = 575;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 0;
+	};
+	5099F24D1327EDE700E1CECA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BCC62B1322E5CF000B8D84 /* WWPlayer.m */;
+		name = "WWPlayer.m: 38";
+		rLen = 0;
+		rLoc = 670;
+		rType = 0;
+		vrLen = 872;
+		vrLoc = 0;
+	};
+	5099F24E1327EDE700E1CECA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5099F24F1327EDE700E1CECA /* NSMenuItem.h */;
+		name = "NSMenuItem.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1618;
+		vrLoc = 0;
+	};
+	5099F24F1327EDE700E1CECA /* NSMenuItem.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSMenuItem.h;
+		path = /System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSMenuItem.h;
+		sourceTree = "<absolute>";
+	};
+	5099F2501327EDE700E1CECA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* WWServerAppDelegate.h */;
+		name = "WWServerAppDelegate.h: 20";
+		rLen = 70;
+		rLoc = 409;
+		rType = 0;
+		vrLen = 519;
+		vrLoc = 0;
+	};
+	5099F2511327EDE700E1CECA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BCC5B51322A7F4000B8D84 /* WWServer.h */;
+		name = "WWServer.h: 36";
+		rLen = 0;
+		rLoc = 792;
+		rType = 0;
+		vrLen = 798;
+		vrLoc = 0;
+	};
+	5099F2521327EDE700E1CECA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BCC59E1322A4BE000B8D84 /* AsyncServer.m */;
+		name = "AsyncServer.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1439;
+		vrLoc = 1084;
+	};
+	5099F2531327EDE700E1CECA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BCC5B61322A7F4000B8D84 /* WWServer.m */;
+		name = "WWServer.m: 41";
+		rLen = 0;
+		rLoc = 659;
+		rType = 0;
+		vrLen = 1103;
+		vrLoc = 78;
+	};
+	5099F2541327EDE700E1CECA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* WWServerAppDelegate.m */;
+		name = "WWServerAppDelegate.m: 39";
+		rLen = 0;
+		rLoc = 888;
+		rType = 0;
+		vrLen = 1676;
+		vrLoc = 0;
+	};
+	5099F2551327EDE700E1CECA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WWServer-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Max/Xcode/WWServer/WWServer-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	5099F2561327EDE700E1CECA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WWServer-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Max/Xcode/WWServer/WWServer-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	50BCC5921322A49D000B8D84 /* WWServer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WWServer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	50BCC59B1322A4A4000B8D84 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	50BCC59C1322A4A4000B8D84 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	50BCC59D1322A4BE000B8D84 /* AsyncServer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 780}}";
+			sepNavSelRange = "{529, 359}";
+			sepNavVisRange = "{0, 1764}";
+		};
+	};
+	50BCC59E1322A4BE000B8D84 /* AsyncServer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 2158}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1084, 1439}";
+		};
+	};
+	50BCC59F1322A4BE000B8D84 /* AsyncSocket.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1986, 2132}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2838}";
+		};
+	};
+	50BCC5A01322A4BE000B8D84 /* AsyncSocket.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 19968}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2573}";
+		};
+	};
+	50BCC5B51322A7F4000B8D84 /* WWServer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 768}}";
+			sepNavSelRange = "{792, 0}";
+			sepNavVisRange = "{0, 798}";
+		};
+	};
+	50BCC5B61322A7F4000B8D84 /* WWServer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 1690}}";
+			sepNavSelRange = "{659, 0}";
+			sepNavVisRange = "{78, 1103}";
+		};
+	};
+	50BCC5B81322A9A1000B8D84 /* FHObject.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 772}}";
+			sepNavSelRange = "{0, 198}";
+			sepNavVisRange = "{0, 313}";
+		};
+	};
+	50BCC5B91322A9A1000B8D84 /* FHObject.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 772}}";
+			sepNavSelRange = "{485, 0}";
+			sepNavVisRange = "{0, 485}";
+		};
+	};
+	50BCC5C51322CD11000B8D84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BCC59F1322A4BE000B8D84 /* AsyncSocket.h */;
+		name = "AsyncSocket.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2838;
+		vrLoc = 0;
+	};
+	50BCC5C81322CD11000B8D84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BCC5A01322A4BE000B8D84 /* AsyncSocket.m */;
+		name = "AsyncSocket.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2573;
+		vrLoc = 0;
+	};
+	50BCC5C91322CD11000B8D84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BCC5B81322A9A1000B8D84 /* FHObject.h */;
+		name = "FHObject.h: 1";
+		rLen = 198;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 0;
+	};
+	50BCC6021322DF1D000B8D84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BCC5B91322A9A1000B8D84 /* FHObject.m */;
+		name = "FHObject.m: 31";
+		rLen = 0;
+		rLoc = 485;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	50BCC6031322DF1D000B8D84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BCC59D1322A4BE000B8D84 /* AsyncServer.h */;
+		name = "AsyncServer.h: 25";
+		rLen = 359;
+		rLoc = 529;
+		rType = 0;
+		vrLen = 1764;
+		vrLoc = 0;
+	};
+	50BCC6071322DF1D000B8D84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	50BCC62A1322E5CF000B8D84 /* WWPlayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 768}}";
+			sepNavSelRange = "{575, 18}";
+			sepNavVisRange = "{0, 601}";
+		};
+	};
+	50BCC62B1322E5CF000B8D84 /* WWPlayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 768}}";
+			sepNavSelRange = "{670, 0}";
+			sepNavVisRange = "{0, 872}";
+		};
+	};
+	8D1107260486CEB800E47090 /* WWServer */ = {
+		activeExec = 0;
+		executables = (
+			50BCC5921322A49D000B8D84 /* WWServer */,
+		);
+	};
+}

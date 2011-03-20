@@ -1,0 +1,12 @@
+4081a1a58ad135679f51bd4e6c84c7cb 71a848d8c3c865a52348725febf04222 ffffffffffffffffffffffffffffffff 102 /Users/Max/Xcode/WWServer/build/Debug/WWServer.app
+4dff5fb407bd403781ed756248b92cff c880db15431b8bc7e1809a60b5db444a ffffffffffffffffffffffffffffffff 93120 /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/MacOS/WWServer
+000000004d726d1d000000000002bb76 2151d06baade92b15cd664b07e2a8bb2 ffffffffffffffffffffffffffffffff 34395 /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004d726d1d000000000000002d e4aff56f64a96c26a3ea36fcefce9f97 ffffffffffffffffffffffffffffffff 92 /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 d007297779bf52d2c8201ecc281ee32f ffffffffffffffffffffffffffffffff 8 /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/PkgInfo
+00000000000000000000000000000000 d007297779bf52d2c8201ecc281ee32f ffffffffffffffffffffffffffffffff 893 /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Info.plist
+5113479b8f56b9c85b72d22b775bfb50 9dc1f06ae4380c5ac7f565b9560d9057 ffffffffffffffffffffffffffffffff 129932 /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/AsyncSocket.o
+5113479b80f042ba5b72d22b775b78e7 e81c084c91be8b6234faf65a5560f1c1 ffffffffffffffffffffffffffffffff 33048 /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/AsyncServer.o
+5113479b83b1b5615b72d22b775b6e98 58428b0681c8c54629c9281b16a834d3 ffffffffffffffffffffffffffffffff 21156 /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServerAppDelegate.o
+5113479bcec3d87c5b72d22b775b6fa0 60602c94b6d2485a5b2bce9a5d7c5e3b ffffffffffffffffffffffffffffffff 4968 /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/main.o
+000000000db6c7750000000000000176 5113479bcec3d87c5b72d22b775b6e31 ffffffffffffffffffffffffffffffff 54310672 /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch.gch
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-fimrgaygmebapwbvcxkdqdzwymzn/WWServer_Prefix.pch.gch

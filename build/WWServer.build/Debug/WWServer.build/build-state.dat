@@ -1,0 +1,406 @@
+TWWServer
+v7
+r0
+t321394576.124258
+cCheck dependencies
+cProcessInfoPlistFile /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Info.plist WWServer-Info.plist
+cCopyStringsFile /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Max/Xcode/WWServer/English.lproj/MainMenu.xib
+cCpResource build/Debug/WWServer.app/Contents/Resources/howlsrv2.icns howlsrv2.icns
+cProcessPCH /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch.gch WWServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/main.o /Users/Max/Xcode/WWServer/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServerAppDelegate.o /Users/Max/Xcode/WWServer/WWServerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/AsyncServer.o /Users/Max/Xcode/WWServer/AsyncServer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/AsyncSocket.o /Users/Max/Xcode/WWServer/AsyncSocket.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServer.o /Users/Max/Xcode/WWServer/WWServer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/FHObject.o /Users/Max/Xcode/WWServer/FHObject.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWPlayer.o /Users/Max/Xcode/WWServer/WWPlayer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/MacOS/WWServer normal x86_64
+cTouch /Users/Max/Xcode/WWServer/build/Debug/WWServer.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/arpa/inet.h
+c000000004BBD2CC60000000000001533
+t1270688966
+s5427
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netdb.h
+c000000004BBD2D1D000000000000307F
+t1270689053
+s12415
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netinet/in.h
+c000000004C2399440000000000005414
+t1277401412
+s21524
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004C23994800000000000059BC
+t1277401416
+s22972
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/Users/Max/Xcode/WWServer/AsyncServer.h
+c000000004D725C9000000000000006E4
+t1299340432
+s1764
+i<Foundation/Foundation.h>
+i"AsyncSocket.h"
+
+N/Users/Max/Xcode/WWServer/AsyncServer.m
+c000000004D725C900000000000000F24
+t1299340432
+s3876
+i"AsyncServer.h"
+
+N/Users/Max/Xcode/WWServer/AsyncSocket.h
+c0000000043855DB30000000000001E60
+t1132813747
+s7776
+i<Foundation/Foundation.h>
+
+N/Users/Max/Xcode/WWServer/AsyncSocket.m
+c00000000438550A1000000000000B175
+t1132810401
+s45429
+i"AsyncSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<netdb.h>
+
+N/Users/Max/Xcode/WWServer/English.lproj/InfoPlist.strings
+c000000004D726D1D000000000000002D
+t1299344669
+s45
+
+N/Users/Max/Xcode/WWServer/English.lproj/MainMenu.xib
+c000000004D77867B0000000000011CE0
+t1299678843
+s72928
+
+N/Users/Max/Xcode/WWServer/FHObject.h
+c000000004D7294EF0000000000000139
+t1299354863
+s313
+i<Foundation/Foundation.h>
+
+N/Users/Max/Xcode/WWServer/FHObject.m
+c000000004D72958C00000000000001E5
+t1299355020
+s485
+i"FHObject.h"
+
+N/Users/Max/Xcode/WWServer/WWPlayer.h
+c000000004D768CF00000000000000259
+t1299614960
+s601
+i<Foundation/Foundation.h>
+
+N/Users/Max/Xcode/WWServer/WWPlayer.m
+c000000004D768CF00000000000000368
+t1299614960
+s872
+i"WWPlayer.h"
+
+N/Users/Max/Xcode/WWServer/WWServer.h
+c000000004D76AF30000000000000031E
+t1299623728
+s798
+i<Foundation/Foundation.h>
+i"AsyncServer.h"
+i"FHObject.h"
+i"WWPlayer.h"
+
+N/Users/Max/Xcode/WWServer/WWServer.m
+c000000004D7796640000000000000B16
+t1299682916
+s2838
+i"WWServer.h"
+
+N/Users/Max/Xcode/WWServer/WWServerAppDelegate.h
+c000000004D7786670000000000000207
+t1299678823
+s519
+i<Cocoa/Cocoa.h>
+i"WWServer.h"
+
+N/Users/Max/Xcode/WWServer/WWServerAppDelegate.m
+c000000004D77973200000000000007D3
+t1299683122
+s2003
+i"WWServerAppDelegate.h"
+
+N/Users/Max/Xcode/WWServer/WWServer_Prefix.pch
+c000000004D726D1D0000000000000093
+t1299344669
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/Max/Xcode/WWServer/build/Debug/WWServer.app
+t1299683123
+s102
+
+N/Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Info.plist
+t1299683122
+s956
+
+N/Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/MacOS/WWServer
+t1299683123
+s112680
+
+N/Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/PkgInfo
+t1299683122
+s8
+
+N/Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1299344804
+s92
+
+N/Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Resources/English.lproj/MainMenu.nib
+t1299678845
+s12395
+
+N/Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Resources/howlsrv2.icns
+t1299614960
+s182202
+
+N/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/AsyncServer.o
+t1299344807
+s33048
+
+N/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/AsyncSocket.o
+t1299344807
+s129932
+
+N/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/FHObject.o
+t1299355022
+s8340
+
+N/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWPlayer.o
+t1299614961
+s12484
+
+N/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServer.LinkFileList
+c000000004D72C4A900000000000002D0
+t1299367081
+s720
+
+N/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServer.o
+t1299682917
+s29728
+
+N/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServerAppDelegate.o
+t1299683123
+s40440
+
+N/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/main.o
+t1299344807
+s4968
+
+N/Users/Max/Xcode/WWServer/howlsrv2.icns
+c000000004D169810000000000002C7BA
+t1293326352
+s182202
+
+N/Users/Max/Xcode/WWServer/main.m
+c000000004D726D1D0000000000000102
+t1299344669
+s258
+i<Cocoa/Cocoa.h>
+
+N/var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch.gch
+t1299344807
+s54310672
+
+N/var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-fimrgaygmebapwbvcxkdqdzwymzn/WWServer_Prefix.pch.gch
+t2
+s0
+
+NWWServer-Info.plist
+c000000004D77973200000000000003FD
+t1299683122
+s1021
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321394576#321394576#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/AsyncServer.o /Users/Max/Xcode/WWServer/AsyncServer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321037607.331067
+e321037607.515431
+r1
+xCompileC
+xbuild/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/AsyncServer.o
+x/Users/Max/Xcode/WWServer/AsyncServer.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/Max/Xcode/WWServer/AsyncServer.m321037607#321037607#0(0"0(0#0#39"/Users/Max/Xcode/WWServer/AsyncServer.m8632822624#1356"    cd /Users/Max/Xcode/WWServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-generated-files.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-own-target-headers.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-all-target-headers.hmap -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-project-headers.hmap -F/Users/Max/Xcode/WWServer/build/Debug -I/Users/Max/Xcode/WWServer/build/Debug/include -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources/x86_64 -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources -include /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch -c /Users/Max/Xcode/WWServer/AsyncServer.m -o /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/AsyncServer.o0#
+
+CCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/AsyncSocket.o /Users/Max/Xcode/WWServer/AsyncSocket.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321037607.332137
+e321037607.663383
+r1
+xCompileC
+xbuild/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/AsyncSocket.o
+x/Users/Max/Xcode/WWServer/AsyncSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/Max/Xcode/WWServer/AsyncSocket.m321037607#321037607#0(0"0(0#0#39"/Users/Max/Xcode/WWServer/AsyncSocket.m8618730208#1356"    cd /Users/Max/Xcode/WWServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-generated-files.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-own-target-headers.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-all-target-headers.hmap -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-project-headers.hmap -F/Users/Max/Xcode/WWServer/build/Debug -I/Users/Max/Xcode/WWServer/build/Debug/include -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources/x86_64 -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources -include /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch -c /Users/Max/Xcode/WWServer/AsyncSocket.m -o /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/AsyncSocket.o0#
+
+CCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/FHObject.o /Users/Max/Xcode/WWServer/FHObject.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321047821.999182
+e321047822.302297
+r1
+xCompileC
+xbuild/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/FHObject.o
+x/Users/Max/Xcode/WWServer/FHObject.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Max/Xcode/WWServer/FHObject.m321047821#321047822#0(0"0(0#0#36"/Users/Max/Xcode/WWServer/FHObject.m8664020928#1350"    cd /Users/Max/Xcode/WWServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-generated-files.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-own-target-headers.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-all-target-headers.hmap -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-project-headers.hmap -F/Users/Max/Xcode/WWServer/build/Debug -I/Users/Max/Xcode/WWServer/build/Debug/include -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources/x86_64 -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources -include /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch -c /Users/Max/Xcode/WWServer/FHObject.m -o /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/FHObject.o0#
+
+CCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWPlayer.o /Users/Max/Xcode/WWServer/WWPlayer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321307761.277977
+e321307761.407465
+r1
+xCompileC
+xbuild/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWPlayer.o
+x/Users/Max/Xcode/WWServer/WWPlayer.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Max/Xcode/WWServer/WWPlayer.m321307761#321307761#0(0"0(0#0#36"/Users/Max/Xcode/WWServer/WWPlayer.m8602757760#1350"    cd /Users/Max/Xcode/WWServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-generated-files.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-own-target-headers.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-all-target-headers.hmap -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-project-headers.hmap -F/Users/Max/Xcode/WWServer/build/Debug -I/Users/Max/Xcode/WWServer/build/Debug/include -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources/x86_64 -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources -include /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch -c /Users/Max/Xcode/WWServer/WWPlayer.m -o /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWPlayer.o0#
+
+CCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServer.o /Users/Max/Xcode/WWServer/WWServer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321375717.555184
+e321375717.941120
+r1
+xCompileC
+xbuild/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServer.o
+x/Users/Max/Xcode/WWServer/WWServer.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Max/Xcode/WWServer/WWServer.m321375717#321375717#0(0"0(0#0#36"/Users/Max/Xcode/WWServer/WWServer.m8623458304#1350"    cd /Users/Max/Xcode/WWServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-generated-files.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-own-target-headers.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-all-target-headers.hmap -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-project-headers.hmap -F/Users/Max/Xcode/WWServer/build/Debug -I/Users/Max/Xcode/WWServer/build/Debug/include -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources/x86_64 -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources -include /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch -c /Users/Max/Xcode/WWServer/WWServer.m -o /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServer.o0#
+
+CCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServerAppDelegate.o /Users/Max/Xcode/WWServer/WWServerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321375922.740430
+e321375923.098557
+r1
+xCompileC
+xbuild/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServerAppDelegate.o
+x/Users/Max/Xcode/WWServer/WWServerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Max/Xcode/WWServer/WWServerAppDelegate.m321375922#321375923#0(0"0(0#0#47"/Users/Max/Xcode/WWServer/WWServerAppDelegate.m8614222400#1372"    cd /Users/Max/Xcode/WWServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-generated-files.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-own-target-headers.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-all-target-headers.hmap -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-project-headers.hmap -F/Users/Max/Xcode/WWServer/build/Debug -I/Users/Max/Xcode/WWServer/build/Debug/include -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources/x86_64 -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources -include /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch -c /Users/Max/Xcode/WWServer/WWServerAppDelegate.m -o /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServerAppDelegate.o0#
+
+CCompileC build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/main.o /Users/Max/Xcode/WWServer/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321037607.180546
+e321037607.330818
+r1
+xCompileC
+xbuild/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/main.o
+x/Users/Max/Xcode/WWServer/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Compile /Users/Max/Xcode/WWServer/main.m321037607#321037607#0(0"0(0#0#32"/Users/Max/Xcode/WWServer/main.m8615389792#1342"    cd /Users/Max/Xcode/WWServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-generated-files.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-own-target-headers.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-all-target-headers.hmap -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-project-headers.hmap -F/Users/Max/Xcode/WWServer/build/Debug -I/Users/Max/Xcode/WWServer/build/Debug/include -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources/x86_64 -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources -include /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch -c /Users/Max/Xcode/WWServer/main.m -o /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Max/Xcode/WWServer/English.lproj/MainMenu.xib
+s321371645.232981
+e321371645.445072
+r1
+xCompileXIB
+x/Users/Max/Xcode/WWServer/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib321371645#321371645#0(0"0(0#0#52"/Users/Max/Xcode/WWServer/English.lproj/MainMenu.xib8613173152#326"    cd /Users/Max/Xcode/WWServer    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Max/Xcode/WWServer/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s321037604.186902
+e321037604.213626
+r1
+xCopyStringsFile
+x/Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings321037604#321037604#0(0"0(0#0#57"/Users/Max/Xcode/WWServer/English.lproj/InfoPlist.strings8644632544#340"    cd /Users/Max/Xcode/WWServer    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/WWServer.app/Contents/Resources/howlsrv2.icns howlsrv2.icns
+s321307760.828519
+e321307760.848297
+r1
+xCpResource
+xbuild/Debug/WWServer.app/Contents/Resources/howlsrv2.icns
+xhowlsrv2.icns
+lSLF07#2@18"Copy howlsrv2.icns321307760#321307760#0(0"0(0#0#39"/Users/Max/Xcode/WWServer/howlsrv2.icns8617909312#305"    cd /Users/Max/Xcode/WWServer    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Max/Xcode/WWServer/howlsrv2.icns /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Resources0#
+
+CLd /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/MacOS/WWServer normal x86_64
+s321375923.098643
+e321375923.141736
+r1
+xLd
+x/Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/MacOS/WWServer
+xnormal
+xx86_64
+lSLF07#2@79"Link /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/MacOS/WWServer321375923#321375923#0(0"0(0#0#0"8614689664#482"    cd /Users/Max/Xcode/WWServer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Max/Xcode/WWServer/build/Debug -F/Users/Max/Xcode/WWServer/build/Debug -filelist /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/Objects-normal/x86_64/WWServer.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/MacOS/WWServer0#
+
+CProcessInfoPlistFile /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Info.plist WWServer-Info.plist
+s321375922.730195
+e321375922.739876
+r1
+xProcessInfoPlistFile
+x/Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Info.plist
+xWWServer-Info.plist
+lSLF07#2@27"Process WWServer-Info.plist321375922#321375922#0(0"0(0#0#45"/Users/Max/Xcode/WWServer/WWServer-Info.plist8613943200#274"    cd /Users/Max/Xcode/WWServer    builtin-infoPlistUtility WWServer-Info.plist -genpkginfo /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Max/Xcode/WWServer/build/Debug/WWServer.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch.gch WWServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321037604.474898
+e321037607.180360
+r1
+xProcessPCH
+x/var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch.gch
+xWWServer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile WWServer_Prefix.pch321037604#321037607#0(0"0(0#0#45"/Users/Max/Xcode/WWServer/WWServer_Prefix.pch8667880928#1260"    cd /Users/Max/Xcode/WWServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-generated-files.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-own-target-headers.hmap -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-all-target-headers.hmap -iquote /Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/WWServer-project-headers.hmap -F/Users/Max/Xcode/WWServer/build/Debug -I/Users/Max/Xcode/WWServer/build/Debug/include -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources/x86_64 -I/Users/Max/Xcode/WWServer/build/WWServer.build/Debug/WWServer.build/DerivedSources -c /Users/Max/Xcode/WWServer/WWServer_Prefix.pch -o /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-dlbqejlskybmtsallhhdfgvzuuko/WWServer_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/eu/eu-GonEeE0aWN-zuZ2iIY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WWServer_Prefix-fimrgaygmebapwbvcxkdqdzwymzn/WWServer_Prefix.pch.gch WWServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/Max/Xcode/WWServer/build/Debug/WWServer.app
+s321375923.141819
+e321375923.144331
+r1
+xTouch
+x/Users/Max/Xcode/WWServer/build/Debug/WWServer.app
+lSLF07#2@56"Touch /Users/Max/Xcode/WWServer/build/Debug/WWServer.app321375923#321375923#0(0"0(0#0#0"8614283328#106"    cd /Users/Max/Xcode/WWServer    /usr/bin/touch -c /Users/Max/Xcode/WWServer/build/Debug/WWServer.app0#
+
